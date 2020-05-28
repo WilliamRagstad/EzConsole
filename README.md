@@ -13,6 +13,8 @@ EzConsole is a collection of modules included in the EzConsole NuGet Package, th
 
 Here is an overview of all the modules added in the EzConsole Collection Package:
 
+---
+
 <div align=center>
  <img alt="EzColors" src="colors.png" width="30%">
 </div>
