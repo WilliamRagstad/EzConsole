@@ -24,4 +24,24 @@ A .NET Standard library built for simple and accessible command line argument pa
 
 #### Examples
 
-##### 1. Static Manual
+##### 1. Console Static Replacement
+
+A drop-in static replacement for `System.Console`'s write methods.
+
+***Example:***
+
+You can use via 
+
+````csharp
+EzConsole.Write(string text, ConsoleColor foreground, ConsoleColor background)
+````
+
+or
+
+***Example:***
+
+````csharp
+using Console = EzConsole.EzConsole;
+````
+
+This will not require any change in your program. Everything you need to do now is changing the `Write` calls that you want colorized!

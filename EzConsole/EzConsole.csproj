@@ -12,7 +12,7 @@
     <Authors>Dotch</Authors>
     <Description>Extends the default System.Console with color support, new methods and better functionality.</Description>
     <PackageProjectUrl>https://github.com/WilliamRagstad/EzConsole</PackageProjectUrl>
-    <PackageIcon>logo.png</PackageIcon>
+    <PackageIcon>console.png</PackageIcon>
     <PackageIconUrl />
     <RepositoryUrl>https://github.com/WilliamRagstad/EzConsole</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
@@ -30,7 +30,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\logo.png">
+    <None Include="..\console.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
