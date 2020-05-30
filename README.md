@@ -2,7 +2,6 @@
  <img alt="EzColors" src="console.png" width="60%">
  <br>
  <img alt="Nuget" src="https://img.shields.io/nuget/v/EzConsole">
- <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/WilliamRagstad/EzConsole">
  <img alt="Nuget" src="https://img.shields.io/nuget/dt/EzConsole">
 </div>
 
